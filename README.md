@@ -8,7 +8,7 @@
 
 🏫 Current graduate student at Georgia Institute of Technology
 
-🔭 I’m currently working on online_survey_frontend & online_survey_backend
+🔭 I’m currently working on blood donation management system.
 
 🌱 I’m currently learning DS & A
 
