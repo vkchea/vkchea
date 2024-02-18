@@ -6,7 +6,7 @@
 
 💻 Java Backend Developer / JavaScript Frontend Developer
 
-🏫 Current graduate student at Georgia Institute of Technology
+🏫 Master's of Comp Sci from Georgia Institute of Technology
 
 🔭 I’m currently working on blood donation management system.
 
