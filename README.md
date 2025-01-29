@@ -8,9 +8,9 @@
 
 🏫 Master's of Comp Sci from Georgia Institute of Technology
 
-🔭 I’m currently working on blood donation management system.
+🔭 I’m currently working on an automated social media handler. 
 
-🌱 I’m currently learning DS & A
+🌱 I’m currently learning DS & A (for interviews)
 
 💬 Ask me about anything
 
